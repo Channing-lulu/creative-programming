@@ -50,4 +50,4 @@ That is why we are here.
 
 ### Bibliography
 Benjamin, W. (1936). The work of art in the age of mechanical reproduction.
-Mikalonytė, E. S., & Kneer, M. (2022). Can artificial intelligence make art? Folk intuitions as to whether AI-driven robots can be viewed as artists and produce art. ACM Transactions on Human-Robotic Interaction, 11(4), 1–19. https://doi.org/10.1145/353087(https://julac-hkpu.primo.exlibrisgroup.com/permalink/852JULAC_HKPU/1v6a19c/cdi_crossref_citationtrail_10_1145_3530875)
+[Mikalonytė, E. S., & Kneer, M. (2022). Can artificial intelligence make art? Folk intuitions as to whether AI-driven robots can be viewed as artists and produce art. ACM Transactions on Human-Robotic Interaction, 11(4), 1–19. https://doi.org/10.1145/353087](https://julac-hkpu.primo.exlibrisgroup.com/permalink/852JULAC_HKPU/1v6a19c/cdi_crossref_citationtrail_10_1145_3530875)
