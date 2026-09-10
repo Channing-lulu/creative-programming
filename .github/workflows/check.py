@@ -1,25 +1,3 @@
-"""
-Does this repository meet the assignment spec?
-
-Run it inside your assignment repo — the folder with README.md in it:
-
-    uv run https://raw.githubusercontent.com/sd5913/pfad/2026/assignments/check.py
-
-or, if you have the course repo cloned next to yours:
-
-    uv run ../pfad/assignments/check.py
-
-It prints a checklist and exits with an error if anything on it fails. The same
-script runs on GitHub every time you push once you have added the workflow from
-`assignments/check.yml` to your repo — that is where the green tick comes from.
-
-It checks what a script can check: the files are there, the essay is the right
-length, the process note says something, the history shows the essay was written
-over more than one sitting, nothing that does not belong is committed. It cannot
-tell whether the essay is any good. That part is still a person.
-
-Nothing to install — this uses only what ships with Python.
-"""
 
 import argparse
 import os
